@@ -1,0 +1,23 @@
+
+#connexion{
+    position: relative;
+    margin-left: auto;
+}
+
+#navigation{
+    box-shadow : 6px 6px 8px #aaa;
+    padding : 10px;
+
+}
+
+#lesproduits{
+    width: 320px;
+    height: 350px;
+    border: 5px solid black;
+    display: inline-block;
+    text-align:center;
+    position:relative;
+    margin-left:45px;    
+
+}
+
